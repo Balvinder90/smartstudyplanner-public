@@ -119,8 +119,6 @@ If you’re interested in reviewing the implementation, feel free to contact me.
 
 ---
 
-```
-
 ## Author
 
 **Balvinder Singh**
