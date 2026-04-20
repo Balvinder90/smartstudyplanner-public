@@ -98,23 +98,12 @@ Email confirmation on register is disabled for this demo due to the free hosting
 
 ---
 
-## Future Improvements and Ideas
-
-- Study streaks & gamification
-- Notifications & reminders
-- Animations
-- Social sharing / public profile
-- Timezone selection for users
-- Language selection for users
-
----
-
 ## What I Learned
 
 - Implementing secure authentication flows
 - Managing complex UI state with complex data
 - Used AI tools to help me create a large project 
-- Designed, built and debugged the project i've built so far
+- Designed, built and debugged a very large and complex project
 - Integrating a backend-as-a-service into a server side and client side application
 - Structuring a project for maintainability
 
