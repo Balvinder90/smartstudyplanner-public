@@ -1,5 +1,7 @@
 # The Smart Study Planner (Public)
 
+![The Smart Study Planner](overview.jpg)
+
 ## Overview
 
 A full-stack web application to help students plan study sessions, track tasks, and visualize productivity trends. Demonstrates full-stack development, database modeling, authentication, state management, time-based tracking, and data visualization.
